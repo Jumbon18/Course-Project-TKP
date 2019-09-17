@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45117320-fa29-438f-be07-6f15a2f2307a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/.idea/sushi-house-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/containers/Auth/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/containers/Auth/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/containers/SignUp/SignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/containers/SignUp/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/hoc/Layout/Layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/hoc/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/store/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/store/actions/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/store/reducers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi-house-react/src/store/reducers/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sushi-house-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sushi-house-react/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/sushi-house-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sushi-house-react/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sushi-house-react/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sushi-house-react/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DataTypes</find>
+      <find>Sequelize</find>
+      <find>Datatypes</find>
+      <find>Task</find>
+      <find>invalid dis</find>
+      <find>Mana</find>
+      <find>Auth</find>
+      <find>result[0]</find>
+      <find>req</find>
+      <find>managerOrder</find>
+      <find>produc</find>
+      <find>delete</find>
+      <find>Manager</find>
+      <find>Manager_men</find>
+      <find>post</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Sequelize</replace>
+      <replace>Datatypes</replace>
+      <replace>DataTypes</replace>
+      <replace>final</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sushi-house-react" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1PruO9nEqrWB1qAraijMYSHLvBM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NUXTJS/NuxtBlog" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.jscs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Олексей\Desktop\Course  Project TKP\src" />
+      <recent name="C:\Users\Олексей\Desktop\Course  Project TKP\src\db" />
+      <recent name="C:\Users\Олексей\Desktop\Course  Project TKP\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="menu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="menu.js" working-dir="$PROJECT_DIR$/src/db/models">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.menu.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45117320-fa29-438f-be07-6f15a2f2307a" name="Default Changelist" comment="" />
+      <created>1558299514999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558299514999</updated>
+      <workItem from="1558299516368" duration="8600000" />
+      <workItem from="1558344886202" duration="165000" />
+      <workItem from="1558364489554" duration="520000" />
+      <workItem from="1558640648548" duration="7392000" />
+      <workItem from="1558686676472" duration="987000" />
+      <workItem from="1558788148919" duration="46917000" />
+      <workItem from="1559040739127" duration="5854000" />
+      <workItem from="1559295342260" duration="147851000" />
+      <workItem from="1559895443574" duration="87862000" />
+      <workItem from="1560180751205" duration="12471000" />
+      <workItem from="1560298938344" duration="7843000" />
+      <workItem from="1560415778669" duration="6754000" />
+      <workItem from="1566644504841" duration="604000" />
+      <workItem from="1566649125305" duration="1769000" />
+      <workItem from="1566808773429" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

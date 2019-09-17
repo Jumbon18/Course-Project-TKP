@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/authStyles.css">
+    <title>Auth</title>
+</head>
+<body>
+<div class="Layout">
+    <main>
+
+        <div class="wrapper" id="animate-area">
+            <div class="wrapper" id="animate-area">
+                <div class="alert alert-danger invalid-Auth" id="errorMessage" role="alert">
+                </div>
+            <form class="auth-form signup">
+                <div class="form-group">
+                    <label for="first">First name</label>
+                    <input type="text" class="form-control" id="first" aria-describedby="emailHelp" placeholder="Ivan">
+                </div>
+                <div class="form-group">
+                    <label for="second">Second name </label>
+                    <input type="text" class="form-control" id="second" aria-describedby="emailHelp" placeholder="Ivanov">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="hello@world.com">
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <label for="phone">Phone number</label>
+                    <input type="text" class="form-control" id="phone" aria-describedby="emailHelp" placeholder="+380">
+                </div>
+
+                <div class="auth-buttons mt-5">
+                    <button type="submit" class="btn-block btn btn-primary">Sign in</button>
+                </div>
+
+            </form>
+        </div>
+        </div>
+    </main>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+<script src="/js/shared.js"></script>
+<script src="/js/signup.js"></script>
+</body>
+
+</html>

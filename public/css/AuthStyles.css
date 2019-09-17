@@ -1,0 +1,58 @@
+.auth-form{
+    background: #fff;
+    box-shadow: 2px 2px 3px 3px rgba(0,0,0,.5);
+    padding: 15px;
+    border-radius: 5px;
+    height: 300px;
+    width: 550px;
+    margin-left: 65px;
+}
+.signup{
+    height: 550px;
+}
+.auth-buttons{
+    display: flex;
+    justify-content: space-around;
+}
+.auth-buttons a{
+    color: #28a745;
+    text-decoration: none;
+}
+.auth-buttons a:hover{
+    color: #ffffff;
+}
+@keyframes animatedBackground {
+    from { background-position: 0 0; }
+    to { background-position: 100% 0; }
+}
+#animate-area{
+    background-image: url('https://wallpapersite.com/images/pages/pic_h/11846.png');
+    background-position: 0px 0px;
+    width: 100%;
+    background-repeat: repeat-x;
+    
+}
+.invalid-Auth{
+    display: none;
+}
+.show{
+    display: block;
+}
+.wrapper{
+
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+}
+.Layout{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.Layout main{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}

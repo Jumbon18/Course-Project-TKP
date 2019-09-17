@@ -1,0 +1,33 @@
+{
+  "name": "Kursach",
+  "version": "1.0.0",
+  "description": "Course project in TKP",
+  "main": "index.js",
+  "author": "Alex Pyvovarov",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open "
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "chalk": "^2.4.2",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "hbs": "^4.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.0",
+    "pdfkit": "^0.9.1",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.8.6",
+    "validator": "^11.0.0",
+    "webpack-dev-server": "^3.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
